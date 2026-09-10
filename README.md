@@ -2,7 +2,8 @@
 
 ## **Descripción del problema**
 
-En este proyecto se resuelve la siguiente ecuación diferencial: 
+En este proyecto se resuelve la siguiente ecuación diferencial:
+
 $$
 \frac{𝑑𝑦}{𝑑t}=−2𝑦
 $$
